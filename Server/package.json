@@ -1,0 +1,17 @@
+{
+  "name": "myServer",
+  "version": "1.0.1",
+  "description": "noDescription",
+  "main": "index.jsx",
+  "author": "abeny",
+  "license": "MIT",
+  "scripts": {
+    "start": " nodemon index.jsx"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "socket.io": "^4.8.1"
+  }
+}
